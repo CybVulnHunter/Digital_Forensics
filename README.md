@@ -254,7 +254,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 # Tools List
 
-# Satellite and mapping services
+### Satellite and mapping services
 
 -   Bing Maps, satellite and mapping service, has more recent and
     sharper imagery than Google in several areas such as Iraq,
