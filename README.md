@@ -40,7 +40,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
   - [Contributing](#contributing)
 
 ---
-
 ## Collections
 
 - [AboutDFIR – The Definitive Compendium Project](https://aboutdfir.com) - Collection of forensic resources for learning and research. Offers lists of certifications, books, blogs, challenges and more
@@ -324,7 +323,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
     Instagram, VK, YouTube)
 -   Yomapic,
     [yomapic.com](http://www.yomapic.com)
-## Geobased search on:
+# Geobased search on:
 
 -   YouTube [youtube.github.io/geo-search-tool/search.html](http://youtube.github.io/geo-search-tool/search.html)
 -   Twitter insert this is search box:
@@ -338,7 +337,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - Metadata extractor [github](https://github.com/drewnoakes/metadata-extractor)
 
 # Images, videos and metadata
-## Image and videos tools
+# Image and videos tools
 -   Amnesty YouTube Dataviewer, Reverse image (still of video) search
     and exact uploading time,
     [amnestyusa.org/sites/default/custom-scripts/citizenevidence](http://www.amnestyusa.org/sites/default/custom-scripts/citizenevidence/)
@@ -353,7 +352,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
     than Google’s reverse image search,
     [yandex.com/images](https://yandex.com/images/) 
 
-## Photo/video metadata (EXIF and e.t.c.)
+# Photo/video metadata (EXIF and e.t.c.)
 -   Jeffrey's Image Metadata Viewer, to view the metadata of (online)
     photos,
     [exif.regex.info/exif.cgi](http://exif.regex.info/exif.cgi) 
@@ -377,17 +376,12 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
     X](http://www.invid-project.eu/wp-content/uploads/2017/07/InVID-verification-ext-v0.54fx-mac.zip),
     [Linux](http://www.invid-project.eu/wp-content/uploads/2017/07/InVID-verification-ext-v0.54fx-linux.zip).
 
-## Guides
--   First Draft News,
-    [firstdraftnews.com/resource/visual-verification-guide-photos](https://firstdraftnews.com/resource/visual-verification-guide-photos) 
-
-
 # Social media
 
-## Multiple social networks
+# Multiple social networks
 -   NacheChk. Same name check over dozens of social networks [namechk.com](https://namechk.com/)
 
-## Facebook
+# Facebook
 -   Facebook Scanner, automatically advanced searched for Facebook
     profiles, [stalkscan.com](http://stalkscan.com/)
 -   Facebook Search Tool, find accounts by name, email, screen name and
@@ -408,31 +402,30 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 -   peoplefindThor, advanced search tool for Facebook profiles,
     [peoplefindthor.dk](https://peoplefindthor.dk)
 
-## LinkedIn
+# LinkedIn
 
 -   Socilab, allows users to visualise and analyse your own LinkedIn
     network,
     [socilab.com](http://socilab.com/%23home) 
 
-## Snapchat
+# Snapchat
 -   Snap Map, a searchable map of geotagged snaps, via the mobile
     application, read
     [here](https://techcrunch.com/2017/06/21/snap-map/) how.
 
-## Tumblr
+# Tumblr
 
 -   Tumblr Originals, find posts uploaded by the account, thus excluding
     reblogs,
     [studiomoh.com/fun/tumblr\_originals](http://www.studiomoh.com/fun/tumblr_originals) 
 
-## Twitter
+# Twitter
 
 -   advanced search,
     [twitter.com/search-advanced](https://twitter.com/search-advanced)
 -   [C](https://twitter.com/search-advanced),
     [tweetbeaver.com/index.php](https://tweetbeaver.com/index.php)
-
-### Geobased searches
+# Geobased searches
 
 -   On Twitter, insert this is search box:
     geocode:[coordinates],[radius-km], for example:
@@ -444,7 +437,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 -   Union Metrics, find the reach of tweets,
     [tweetreach.com/](https://tweetreach.com/) 
 
-### Advanced Search Operators:
+# Advanced Search Operators:
 
 -   term1 term2 - tweets with both term1 and term2 in any order (e.g.
     twitter metrics)
@@ -463,13 +456,13 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 -   until:YYYY-MM-DD - tweets before a specific date in UTC (e.g.
     until:2017-03-30)
 
-## YouTube
+# YouTube
 -   Amnesty YouTube Dataviewer, Reverse image (still of video) search
     and exact uploading time,
     [amnestyusa.org/sites/default/custom-scripts/citizenevidence](http://www.amnestyusa.org/sites/default/custom-scripts/citizenevidence/)
 
 # Transport
-## Aircraft
+# Aircraft
 
 -   OpenSky. Free aircraft tracking project [opensky-network.org](https://opensky-network.org/)
 -   ADS-B Exchange Global Radar, which also includes a number of
@@ -483,7 +476,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
     [radarbox24.com](https://www.radarbox24.com)
 -   FlightView, [flightview.com](https://www.flightview.com/)
 
-## Boats
+# Boats
 
 -   MarineTraffic,
     [marinetraffic.com](https://www.marinetraffic.com/) 
@@ -491,7 +484,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
     [vesselfinder.com](https://www.vesselfinder.com/) 
 -   Fleet Min, [fleetmon.com](https://www.fleetmon.com/)
 
-## Trains
+# Trains
 
 -   France, full interactive map of the French railway system with live
     positions of trains, plus accuracy of schedule,
@@ -504,7 +497,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
     including live positions of trains,
     [http://spoorkaart.mwnn.nl](http://spoorkaart.mwnn.nl/) 
 
-## Misc
+# Misc
 
 -   WikiRoutes, public transport database,
     [wikiroutes.info](http://wikiroutes.info)
@@ -517,7 +510,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
     [wolframalpha.com](http://www.wolframalpha.com) 
 
 
-## Whois, IP lookups, website analysis
+# Whois, IP lookups, website analysis
 -   [Censys](https://censys.io/)
 -   Central Ops, [CentralOps](http://centralops.net/)
 -   Certificate search, [crt.sh](https://crt.sh) 
@@ -528,7 +521,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 -   [Network-Tools](http://network-tools.com/)
 -   [Open Site Explorer](http://www.opensiteexplorer.org/)
 
-##   People search
+#   People search
 -   Peekyou,
     [peekyou.com](http://peekyou.com) 
 -   Pipl, the world largest people search engine, find persons behind an e-mail address, social media username, or phone number,  [pipl.com](https://pipl.com/)
